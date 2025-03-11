@@ -83,7 +83,7 @@ A Chrome extension that allows you to select any element from a web page and con
 
 1. Clone this repository:
 ```bash
-git clone [Repository URL]
+git clone [https://github.com/weversonmp/take-a-pdf]
 ```
 
 2. Open Chrome and navigate to `chrome://extensions/`
